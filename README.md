@@ -1,6 +1,6 @@
 # tidy_tidy
 
-This is the public repository for the tutorial on **GitHub repositories and Basic Data Tidying and Visualization**, created for the tutorial creation assignment the the 2020 Data Sience Coure
+This is the public repository for the tutorial on **GitHub repositories and Basic Data Tidying and Visualization**, created for the tutorial creation assignment the the 2020 Data Science Coure
 
 
 # The link to the **tutorial** (website version) can be accessed [here](https://eddatascienceees.github.io/tutorial-kategmoloney/)
